@@ -1,4 +1,6 @@
 # Default ignored files
 /shelf/
+Lib/
+Scripts/
 /workspace.xml
 .idea/
